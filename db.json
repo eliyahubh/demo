@@ -1,4 +1,12 @@
 {"mydata":{
   "autoSend": "true",
   "managerAssignTo": "benhemo.eli@motorolasolutions.com"
-}}
+}
+ {"employDetails:{
+    "firstName": "אלי",
+    "lastName": "אלי",
+    "phone": "0000",
+    "coreId": "XXXX",
+    "building": "XXXXX"
+}
+}
