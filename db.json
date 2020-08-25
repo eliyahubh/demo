@@ -1,14 +1,22 @@
   {
   	"mydata": {
   		"autoSend": "true",
-  		"managerAssignTo": "benhemo.eli@motorolasolutions.com"
+  		"managerAssignTo": "XXX@XXX.com"
   	},
-  	"employDetails": {
-  		"firstName": "אלי",
-  		"lastName": "אלי",
-  		"phone": "0000",
-  		"coreId": "XXXX",
-  		"building": "XXXXX"
-
-  	}
+  	"employDetails":{
+    "firstName": "XXX",
+    "lastName": "XXX XX",
+    "phone": "01-0000000",
+    "coreId": "XXXXX",
+    "building": "קרי",
+    "budgetUnit": "XSXXX",
+    "directManagerName": "XXXX XX",
+    "managerCoreID": "XXXX",
+    "email": "XXX@XXXXXX.com",
+    "cellPhone": "(+972)XXXXXXX",
+    "lvl1Orgname": "XXXXXXX",
+    "commID": "C6XXXXXX",
+    "employeeNo": "XXXXXXXX7",
+    "photo": "XXXXXXXXXX.jpg"
+}
   }
